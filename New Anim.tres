@@ -3,7 +3,6 @@
 [resource]
 resource_name = "New Anim"
 length = 0.5
-loop = true
 step = 0.01
 tracks/0/type = "value"
 tracks/0/path = NodePath("ColorRect:material")
@@ -24,7 +23,7 @@ tracks/1/loop_wrap = true
 tracks/1/imported = false
 tracks/1/enabled = true
 tracks/1/keys = {
-"points": PoolRealArray( 0, -0.000271237, -0.00796854, 0.000271237, 0.00796854, -0.00186902, -0.295759, 0.075556, 0.295759, -0.075556 ),
+"points": PoolRealArray( 0, -0.000271237, -0.00796854, 0.000271237, 0.00796854, -0.00186902, -0.29786, 0.156945, 0.295759, -0.075556 ),
 "times": PoolRealArray( 0, 0.5 )
 }
 tracks/2/type = "bezier"
